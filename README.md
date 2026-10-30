@@ -46,7 +46,6 @@ dependencies:
   - gffcompare=0.11
   - bedtools
   - blast
-  - infernal            # cmscan for Rfam / riboswitch
   - python=3.9
   - pip
   - r-base
